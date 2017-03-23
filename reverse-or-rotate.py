@@ -13,7 +13,7 @@ def revrot(string, size):
     if not size:
         return ''
 
-    chunks = [string[i:i+size] for i in range(0, len(string), size)]
+    chunks = [string[i:i + size] for i in range(0, len(string), size)]
     if len(chunks[-1]) != size:
         chunks.pop()
 
