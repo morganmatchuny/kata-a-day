@@ -1,1 +1,1 @@
-"# kata-a-day" 
+codewars.com challenge: complete one kata a day
